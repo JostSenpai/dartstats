@@ -1,0 +1,7 @@
+{
+  "player_name": "",
+  "websocket": "wss://localhost:8079/socket.io/?EIO=4&transport=websocket",
+  "autodarts_email": "",
+  "autodarts_password": "",
+  "autodarts_token": ""
+}
