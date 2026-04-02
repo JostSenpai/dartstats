@@ -1,0 +1,11 @@
+# Ignore credentials
+config.json
+
+# Ignore local database and settings
+dartstats.db
+ui_settings.json
+.streamlit/
+
+# Ignore Python caches
+__pycache__/
+*.pyc

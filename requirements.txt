@@ -1,0 +1,8 @@
+websocket-client
+requests
+playwright
+streamlit
+pandas
+plotly
+numpy
+statsmodels
